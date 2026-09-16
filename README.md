@@ -1,32 +1,64 @@
+
 # LeetCode Solutions
 
-This repository contains my LeetCode practice and solutions.
+This repository contains my LeetCode practice solutions, local test cases, and documentation.
 
-## Topics
+## Table of Contents
 
-- Arrays
-- Strings
-- Stacks
-- Linked Lists
+- [Arrays](#arrays)
+  - [Two Sum](#two-sum)
+  - [Best Time to Buy and Sell Stock](#best-time-to-buy-and-sell-stock)
+- [Strings](#strings)
+  - [Valid Anagram](#valid-anagram)
+  - [Valid Palindrome](#valid-palindrome)
+- [Stacks](#stacks)
+  - [Valid Parentheses](#valid-parentheses)
+  - [Min Stack](#min-stack)
+- [Linked Lists](#linked-lists)
+  - [Reverse Linked List](#reverse-linked-list)
+  - [Merge Two Sorted Lists](#merge-two-sorted-lists)
+- [Progress Tracker](#progress-tracker)
 
-## Problems
+## Arrays
 
-### Arrays
-- Two Sum
-- Best Time to Buy and Sell Stock
+### Two Sum
 
-### Strings
-- Valid Anagram
-- Valid Palindrome
+[View Solution](arrays/two-sum/)
 
-### Stacks
-- Valid Parentheses
-- Min Stack
+### Best Time to Buy and Sell Stock
 
-### Linked Lists
-- Reverse Linked List
-- Merge Two Sorted Lists
+[View Solution](arrays/best-time-to-buy-and-sell-stock/)
 
-## Progress
+## Strings
 
-See [PROGRESS.md](PROGRESS.md) for my practice progress.
+### Valid Anagram
+
+[View Solution](strings/valid-anagram/)
+
+### Valid Palindrome
+
+[View Solution](strings/valid-palindrome/)
+
+## Stacks
+
+### Valid Parentheses
+
+[View Solution](stacks/valid-parentheses/)
+
+### Min Stack
+
+[View Solution](stacks/min-stack/)
+
+## Linked Lists
+
+### Reverse Linked List
+
+[View Solution](linked-lists/reverse-linked-list/)
+
+### Merge Two Sorted Lists
+
+[View Solution](linked-lists/merge-two-sorted-lists/)
+
+## Progress Tracker
+
+[View Progress](PROGRESS.md)
