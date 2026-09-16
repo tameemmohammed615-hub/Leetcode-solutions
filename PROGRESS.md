@@ -8,3 +8,4 @@
 | 16/09/2026 | Valid Palindrome | Strings | Easy | ✅ Solved | 15 min |
 | 16/09/2026 | Valid Parentheses | Stacks | Easy | ✅ Solved | 15 min |
 | 16/09/2026 | Reverse Linked List | Linked Lists | Easy | ✅ Solved | 15 min |
+| 16/09/2026 | Merge Two Sorted Lists | Linked Lists | Easy | ✅ Solved | 15 min |
